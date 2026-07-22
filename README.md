@@ -22,7 +22,7 @@ High-gain, low-power circuit using a current mirror as the current source.
 ## What's in this repo
 - Schematic screenshots
 - Layout screenshots  
-- DRC/LVS check results
+-final IC
 
 ## Checks Passed
 - ✅ DRC (Design Rule Check)
